@@ -5,11 +5,14 @@
 
 - Windows 用户推荐使用编辑器 MarkdownPad  
 下载地址：<http://markdownpad.com>
-  
+
 - Mac 用户推荐使用编辑器 MacDown     
 下载地址：<http://macdown.uranusjr.com/>
 
 <h2 id="information">测试：锚点要定位的位置</h2>
+
+- 插件下载
+  ![Markdown Writer](images/2017/11/markdown-writer.png)
 
 ## 标题
 
@@ -17,7 +20,7 @@
 
 - 一级标题就添加一个 `#` + 空格，例如：# 我是一级标题
 - 二级标题就添加两个 `#` + 空格，例如：## 我是二级标题。
-- 三级标题就添加三个 `#` + 空格，例如：### 我是三级标题。 
+- 三级标题就添加三个 `#` + 空格，例如：### 我是三级标题。
 
 
 ## 特殊文字处理
@@ -45,7 +48,7 @@
 ```
 
 效果：  
-**我是粗体** 
+**我是粗体**
 
 ### 标亮
 
@@ -57,7 +60,7 @@
 
 效果：  
 
-`请把我标亮` 
+`请把我标亮`
 
 ## 列表
 
@@ -129,7 +132,7 @@
 
 效果：  
 
-[点击跳转到极客学院](http://www.jikexueyuan.com) 
+[点击跳转到极客学院](http://www.jikexueyuan.com)
 
 ## 引用
 
@@ -141,7 +144,7 @@
 ```
 
 效果：
-  
+
 >注意：  
 我是引用的内容（空一行就结束引用）。
 
@@ -158,7 +161,7 @@ public class Person {
 ```
 </pre>
 
-效果： 
+效果：
 
 ```java
 // 代码区域的上下分别用三个 ` 括起来
@@ -170,7 +173,7 @@ public class Person {
 支持的语法：
 
 - bash, java, html, css, javascript, json, xml, ini,
-- actionscript, apache, clojure, cmake, coffeescript, cpp, cs, d, delphi, django, erlang, go, smalltalk, sql, 
+- actionscript, apache, clojure, cmake, coffeescript, cpp, cs, d, delphi, django, erlang, go, smalltalk, sql,
 - haskell, http, lisp, lua, markdown, matlab, nginx, objectivec, perl, php, python, r, ruby, scala,tex, vbscript
 
 
@@ -179,8 +182,3 @@ public class Person {
 书写示例（具体开源文件内容）：
 
 [锚点名](#information)
-
- 
-
-
-
