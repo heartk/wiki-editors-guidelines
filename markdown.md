@@ -12,7 +12,8 @@
 <h2 id="information">测试：锚点要定位的位置</h2>
 
 - 插件下载
-  ![Markdown Writer](images/2017/11/markdown-writer.png)
+  Markdown Writer
+  ![Markdown Writer](images/markdown-writer.png)
 
 ## 标题
 
